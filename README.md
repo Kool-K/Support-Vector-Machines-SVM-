@@ -37,7 +37,7 @@ The results clearly show that the non-linear RBF kernel outperforms the linear k
 
 The decision boundary of the best-tuned model, visualized on the two principal components of the data, is shown below. It effectively separates the 'Malignant' and 'Benign' classes.
 
-![SVM Decision Boundary on PCA Data](visualizations/svm_decision_boundary_on_pca-reduced_data.png)
+![SVM Decision Boundary on PCA Data](visualizations/svm_decision_boundary_pca.png)
 
 ## Execution Instructions
 
